@@ -34,7 +34,7 @@ wget "$viaversion"
 cd ..
 
 # Minecraft Version
-version="1.18.1"
+version="1.18.2"
 
 # Download PaperMC
 echo QUICKSERVER: Downloading the latest PaperMC server jar...
